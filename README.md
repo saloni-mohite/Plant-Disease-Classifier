@@ -7,5 +7,4 @@
 ⚙️ Implemented with **TensorFlow, Keras, NumPy, and OpenCV**.  
 📷 Input: Upload or capture an image of the plant leaf.  
 📊 Output: Predicts the **type of disease** present.  
-🌾 Aims to support **precision agriculture** and reduce crop losses.  
-🤝 Open-source — 📌 Contributions and suggestions are welcome! 🚀  
+🌾 Aims to support **precision agriculture** and reduce crop losses.   
